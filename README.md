@@ -67,4 +67,4 @@ The microservice manages user accounts with the following fields:
 
 
 ## 🧑‍💻 Author
-William Mayila |DevOps Engineer | Cloud-native infrastructure & CI/CD automation | Bilingual (EN/FR)
+[William Mayila](https://www.linkedin.com/in/william-mayila) |DevOps Engineer | Cloud-native infrastructure & CI/CD automation | Bilingual (EN/FR)
